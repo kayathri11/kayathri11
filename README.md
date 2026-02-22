@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full-Stack Developer with experience in building end-to-end web apps using MERN stack and TypeScript. Proficient in RESTful API design & JWT authentication.
+I'm a Full-Stack Developer with experience in building scalable end-to-end applications using MERN stack and TypeScript. Proficient in RESTful API design & JWT authentication.
 
 # 💻 Tech Stack
 
